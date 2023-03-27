@@ -170,6 +170,6 @@ public class CommendCenter {
 		System.out.println("userDel : 유저를 삭제");
 		System.out.println("userPwSet : 유저의 비밀번호를 수정");
 		System.out.println("userList : 유저를 검색");
-		System.out.println("exit : 프로그램 종료");
+		System.out.println("exit : 로그인 화면으로 이동");
 	}
 }
