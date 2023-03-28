@@ -26,7 +26,6 @@ public class ARCLI {
 						//만약 commend 함수 값이 exit라면 로그인 화면으로 돌아간다.
 						if(commend.equals("exit")) {
 							System.out.println("* 안녕히가세요. *");
-							sc.close();
 							break;
 						}
 						
